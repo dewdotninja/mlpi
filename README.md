@@ -6,11 +6,10 @@ Electromechanical Manufacturing Engineering, Dept. of Mechanical Engineering, Ka
 **Instructor :** Dr.Varodom Toochinda
 
 ### Main textbook
-<ul>
-<li />S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html). Packt Publishing. 2022.
+S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html). Packt Publishing. 2022.
 
-  
-</ul>
+### Supplement
+1. 
 
 
 
