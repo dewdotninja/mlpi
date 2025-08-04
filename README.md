@@ -19,7 +19,15 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
   
 </ul>
 
+### Software
 
+<ul>
+  <li />Docker 
+    <ul>
+      <li />Dockerfile
+      <li />compose.yml
+    </ul>
+</ul>
 
 
 
