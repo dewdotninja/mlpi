@@ -20,6 +20,13 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
   
 </ul>
 
+### Assignments
+
+<ul>
+  <li /> <a href="/hws/mlpi25_hw1.ipynb">Homework 1</a>
+</ul>
+
+
 ### Software
 
 <ul>
