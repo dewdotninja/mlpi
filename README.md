@@ -16,6 +16,7 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 
 <ul>
 <li />Lecture 1 : Course introduction <a href="/slides/mlpi_lect01.pdf">[Slides]</a>
+<li />Lecture 2 : Simple ML algorithms for classification <a href="/slides/mlpi_lect02.pdf">[Slides]</a>
   
 </ul>
 
