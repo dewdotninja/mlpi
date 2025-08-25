@@ -5,6 +5,10 @@ Electromechanical Manufacturing Engineering, Dept. of Mechanical Engineering, Ka
 
 **Instructor :** Dr.Varodom Toochinda
 
+<img src="https://raw.githubusercontent.com/dewdotninja/mlpi/refs/heads/main/hws/figs/hw2_p1.png" width=700 />
+
+<hr>
+
 ### Main textbook
 S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html). Packt Publishing. 2022.
 
@@ -17,7 +21,7 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <ul>
 <li />Lecture 1 : Course introduction <a href="/slides/mlpi_lect01.pdf">[Slides]</a>
 <li />Lecture 2 : Simple ML algorithms for classification <a href="/slides/mlpi_lect02.pdf">[Slides]</a>
-  
+<li />Lecture 3 : Linear and Logistic Regression <a href="/slides/mlpi_lect03.pdf">[Slides]</a> <a href="/notebooks/lecture3.ipynb">[notebook]</a> 
 </ul>
 
 ### Assignments
