@@ -28,6 +28,8 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 
 <ul>
   <li /> <a href="/hws/mlpi25_hw1.ipynb">Homework 1</a>
+  <li /> <a href="/hws/mlpi25_hw2.ipynb">Homework 2</a>
+    
 </ul>
 
 
