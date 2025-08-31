@@ -22,6 +22,7 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <li />Lecture 1 : Course introduction <a href="/slides/mlpi_lect01.pdf">[Slides]</a>
 <li />Lecture 2 : Simple ML algorithms for classification <a href="/slides/mlpi_lect02.pdf">[Slides]</a>
 <li />Lecture 3 : Linear and Logistic Regression <a href="/slides/mlpi_lect03.pdf">[Slides]</a> <a href="/notebooks/lecture3.ipynb">[notebook]</a> 
+<li />Lecture 4 : Support Vector Machine and k-nearest neighbor algorithms <a href="/slides/mlpi_lect04.pdf">[Slides]</a> <a href="/notebooks/mlpi_lect04.ipynb">[notebook]</a>   
 </ul>
 
 ### Assignments
