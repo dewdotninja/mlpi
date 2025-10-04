@@ -25,7 +25,7 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <li />Lecture 4 : Support Vector Machine and k-nearest neighbor algorithms <a href="/slides/mlpi25_lect04.pdf">[Slides]</a> <a href="/notebooks/mlpi_lect04.ipynb">[notebook]</a>   
 <li />Lecture 5 : Decision tree algorithm, ensemble, and random forests <a href="/slides/mlpi25_lect05.pdf">[Slides]</a> <a href="/notebooks/mlpi_lect05.ipynb">[notebook]</a>
 <li />Midterm
-<li />Lecture 7 : Feature Dimensionality Reduction <a href="/slides/mlpi25_lect07.pdf">[Slides]</a> <a href="/notebooks/mlpi_lect07.ipynb">[notebook]</a>
+<li />Lecture 7 : Feature Dimensionality Reduction <a href="/slides/mlpi25_lect07.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect07.ipynb">[notebook]</a>
 </ul>
 
 ### Assignments
