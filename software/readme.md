@@ -3,8 +3,8 @@
 #### To create a local environment for this course
 
 * install miniconda from https://www.anaconda.com/download/success 
-* (Optional) run 3 command lines that appear after you try the first command below
-* create environment. You can use other # environment name in place of iaiiot
+* (Optional) run 3 command lines that appear if error occors when you try the first command below
+* create environment. You can use other environment name in place of mlpi
 
 ```console
 conda install -y jupyter
