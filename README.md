@@ -26,6 +26,7 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <li />Lecture 5 : Decision tree algorithm, ensemble, and random forests <a href="/slides/mlpi25_lect05.pdf">[Slides]</a> <a href="/notebooks/mlpi_lect05.ipynb">[notebook]</a>
 <li />Midterm
 <li />Lecture 7 : Feature Dimensionality Reduction <a href="/slides/mlpi25_lect07.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect07.ipynb">[notebook]</a>
+<li />Lecture 8 : Clustering Analysis <a href="/slides/mlpi25_lect08.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect08.ipynb">[notebook]</a>
 </ul>
 
 ### Assignments
@@ -35,9 +36,8 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
   <li /> <a href="/hws/mlpi25_hw2.ipynb">Homework 2</a>
   <li /> <a href="/hws/mlpi25_hw3.ipynb">Homework 3</a>
   <li /> <a href="/hws/mlpi25_hw4.ipynb">Homework 4</a>
-
-  
-    
+  <li /> <a href="/hws/mlpi25_hw5.ipynb">Homework 5</a>
+   
 </ul>
 
 
