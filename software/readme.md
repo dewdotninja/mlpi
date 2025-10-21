@@ -20,7 +20,7 @@ conda install conda-forge::jupyterlab
 * install packages
 
 ```console
-pip install scikit-learn torch torchvision torchaudio
+pip install matplotlib pandas scikit-learn torch torchvision torchaudio
 ```
 * Register the environment
 * 
