@@ -52,6 +52,19 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
     </ul>
 </ul>
 
+### Related video selection 
+
+#### Full course/playlist from top universities
+
+<ul>
+<li />Stanford CS229: <a href="https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy&si=0XxCERQHc_xpEu-f">Machine Learning (Spring 2022)</a> 
+<li />Stanford CS229: <a href="https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=G1Z7E9vQ5cODD_HT">Machine Learning (Autumn 2018)</a> by Andrew Ng
+<li />MIT 6.036 : <a href="https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=G1Z7E9vQ5cODD_HT">Machine Learning (Fall 2020)</a>by Tamara Broderick
+<li />University of Tübingen : <a href="https://youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT&si=TZrr6JAqXDMxJYV7">Introduction to Machine Learning (2020/21)</a> by Dmitry Kobak 
+<li />
+  
+</ul>
+
 
 
 
