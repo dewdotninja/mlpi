@@ -63,8 +63,8 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <li />University of Tübingen : <a href="https://youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT&si=TZrr6JAqXDMxJYV7">Introduction to Machine Learning (2020/21)</a> by Dmitry Kobak 
 <li /><a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV">Intro to Machine Learning and Statistical Pattern Classification Course </a> by Sebastian Raschka
 <li /><a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV">Intro to Deep Learning and Generative Models Course</a> by Sebastian Raschka  
-<li />DeepLearningAI<a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV">Machine Learning Specialization</a>by Andrew Ng
-<li />DeepLearningAI <a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV">Convolutional Neural Networks</a> Course 4 of the Deep Learning Specialization by Andrew Ng
+<li />DeepLearningAI <a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV"> Machine Learning Specialization</a>by Andrew Ng
+<li />DeepLearningAI <a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV"> Convolutional Neural Networks</a> Course 4 of the Deep Learning Specialization by Andrew Ng
 </ul>
 
 #### PyTorch
