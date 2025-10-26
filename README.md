@@ -27,7 +27,7 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <li />Midterm
 <li />Lecture 7 : Feature Dimensionality Reduction <a href="/slides/mlpi25_lect07.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect07.ipynb">[notebook]</a>
 <li />Lecture 8 : Clustering Analysis <a href="/slides/mlpi25_lect08.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect08.ipynb">[notebook]</a>
-<li />Lecture 9 : Neural Networks and Deep Learning <a href="/slides/mlpi25_lect09.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect09.ipynb">[notebook]</a> <a href="/notebooks/mlpi25_lect09A.ipynb">[supplement notebook]</a>
+<li />Lecture 9 : Neural Networks and Deep Learning <a href="/slides/mlpi25_lect09.pdf">[Slides]</a> <a href="/notebooks/mlpi25_lect09.ipynb">[notebook]</a> <a href="/notebooks/mlpi25_lect9A.ipynb">[supplement notebook]</a>
 </ul>
 
 ### Assignments
