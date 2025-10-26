@@ -67,6 +67,12 @@ S. Raschka, Y. Liu and V. Mirjalili. [Machine Learning with PyTorch and Scikit-L
 <li />DeepLearningAI <a href="https://youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&si=zneQOlTnqtkvH-nV">Convolutional Neural Networks</a> Course 4 of the Deep Learning Specialization by Andrew Ng
 </ul>
 
+#### PyTorch
+
+<ul>
+<li /><a href="https://youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN&si=8bkxkdxRiCwardkO">PyTorch Beginner Series</a> from PyTorch.org
+</ul>
+
 
 
 
